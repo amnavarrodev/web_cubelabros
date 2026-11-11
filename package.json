@@ -1,0 +1,15 @@
+{
+  "name": "cubela-bros-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual (EN/ES) static website for Cubela Brothers — remodeling & custom carpentry in Lakeland, FL.",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "node build.js && node scripts/serve.js",
+    "images": "node scripts/optimize-images.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  },
+  "license": "UNLICENSED"
+}

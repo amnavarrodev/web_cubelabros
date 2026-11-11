@@ -1,0 +1,202 @@
+{
+  "shower-blue-onyx": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "shower-hex-floor-linear-drain": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "kitchen-sage-cabinets-backsplash": {
+    "w": 1536,
+    "h": 2048,
+    "variants": {
+      "sm": {
+        "w": 640,
+        "h": 853
+      },
+      "lg": {
+        "w": 1280,
+        "h": 1707
+      }
+    }
+  },
+  "shower-rain-head-niche": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "cabinets-shaker-white": {
+    "w": 526,
+    "h": 527,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 527
+      }
+    }
+  },
+  "kitchen-mosaic-backsplash": {
+    "w": 1536,
+    "h": 2048,
+    "variants": {
+      "sm": {
+        "w": 640,
+        "h": 853
+      },
+      "lg": {
+        "w": 1280,
+        "h": 1707
+      }
+    }
+  },
+  "shower-rain-head-wall": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "kitchen-open-shelf-cabinet": {
+    "w": 1536,
+    "h": 2048,
+    "variants": {
+      "sm": {
+        "w": 640,
+        "h": 853
+      },
+      "lg": {
+        "w": 1280,
+        "h": 1707
+      }
+    }
+  },
+  "tile-countertop-builtin": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  },
+  "shower-ceiling-lights": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "kitchen-cabinets-install": {
+    "w": 1536,
+    "h": 2048,
+    "variants": {
+      "sm": {
+        "w": 640,
+        "h": 853
+      },
+      "lg": {
+        "w": 1280,
+        "h": 1707
+      }
+    }
+  },
+  "shower-window-detail": {
+    "w": 526,
+    "h": 935,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 935
+      }
+    }
+  },
+  "tile-vanity-niche": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  },
+  "kitchen-countertop-detail": {
+    "w": 1536,
+    "h": 2048,
+    "variants": {
+      "sm": {
+        "w": 640,
+        "h": 853
+      },
+      "lg": {
+        "w": 1280,
+        "h": 1707
+      }
+    }
+  },
+  "porcelain-tile-detail": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  },
+  "shower-tile-in-progress": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  },
+  "subway-tile-detail": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  },
+  "window-sill-tile": {
+    "w": 526,
+    "h": 701,
+    "variants": {
+      "sm": {
+        "w": 526,
+        "h": 701
+      }
+    }
+  }
+}
